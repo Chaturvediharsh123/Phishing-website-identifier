@@ -163,7 +163,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Contact
 
 For questions or inquiries, please reach out via:
-- Email: chitranshushekhwat@gmail.com
+- Email: chitranshushekhawat@gmail.com
 - GitHub Issues: [Project Issues](https://github.com/chitranshushekhawat/phishing_detector/issues)
 
 ---
