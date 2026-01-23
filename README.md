@@ -152,8 +152,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Author
 
-**Your Name** - Initial work
-
+Harsh Chaturvedi
+Chitranshu Shekhawat
 ## Acknowledgments
 
 - Dataset source and contributors
@@ -164,6 +164,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 For questions or inquiries, please reach out via:
 - Email: chitranshushekhawat@gmail.com
+- Email: chaturvediharsh123@gmail.com
 - GitHub Issues: [Project Issues](https://github.com/chitranshushekhawat/phishing_detector/issues)
 
 ---
